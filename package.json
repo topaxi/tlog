@@ -1,7 +1,7 @@
 {
     "name": "tlog"
   , "description": "topaxi's minimalistic node.js logger"
-  , "version": "0.1"
+  , "version": "0.1.0"
   , "author": "Damian Senn <damian.senn@gmail.com>"
   , "keywords": [ "log", "logger", "minimalistic" ]
   , "main": "./lib/tlog.js"
