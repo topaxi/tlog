@@ -1,0 +1,14 @@
+{
+    "name": "tlog"
+  , "description": "topaxi's minimalistic node.js logger"
+  , "version": "0.1"
+  , "author": "Damian Senn <damian.senn@gmail.com>"
+  , "keywords": [ "log", "logger", "minimalistic" ]
+  , "main": "./lib/tlog.js",
+  , "engines": {
+      "node": ">= 0.9"
+  }
+  , "repository": {
+      "type": "git"
+    , "url": "https://github.com/topaxi/tlog.git"
+}
