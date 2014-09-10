@@ -4,7 +4,7 @@
   , "version": "0.1"
   , "author": "Damian Senn <damian.senn@gmail.com>"
   , "keywords": [ "log", "logger", "minimalistic" ]
-  , "main": "./lib/tlog.js",
+  , "main": "./lib/tlog.js"
   , "engines": {
       "node": ">= 0.9"
   }
